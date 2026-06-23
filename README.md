@@ -15,7 +15,6 @@ The analysis covers crucial business dimensions, including product performance, 
   * Advanced Data Aggregations (`SUM`, `COUNT`, `AVG`, `ROUND`)
   * Data Filtering & Precision (`WHERE`, `HAVING`, `LIMIT`)
   * Grouping and Sorting (`GROUP BY`, `ORDER BY`)
-  * Advanced Analytics (Self-Joins, Subqueries, Type Casting with `STR_TO_DATE`)
   * Conditional Logic (`CASE WHEN`)
 
 ---
